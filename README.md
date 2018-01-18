@@ -1,2 +1,2 @@
-# codes
-Collections of all the programs that i have coded.
+# random-scripts
+A repository containing small projects, scripts mostly in Python
